@@ -14,22 +14,22 @@ View their results instantly
 
 # 🚀 Features
 
-🔐 User Authentication
+//🔐 User Authentication
 Register, login, and logout functionality
 
-🧠 Quiz System
+//🧠 Quiz System
 Multiple-choice questions (MCQs)
 One question at a time or full quiz display
 
-📊 Score Calculation
+//📊 Score Calculation
 Immediate result after submission
 Displays total score
 
-🗂️ Admin Panel
+//🗂️ Admin Panel
 Add, edit, and delete questions
 Manage quizzes using Django Admin
 
-💻 Simple UI
+//💻 Simple UI
 Clean and easy-to-use interface
 🛠️ Tech Stack
 
