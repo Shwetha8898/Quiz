@@ -32,7 +32,11 @@ Clean and easy-to-use interface
 # Technology	Description
 
 Django -	Backend framework
+
 Python -	Programming language
+
 HTML	- Structure
-CSS	- Styling
+
+CSS	-  Styling
+
 SQLite -	Default database
