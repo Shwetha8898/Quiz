@@ -1,0 +1,82 @@
+body {
+    background-color: #f5f5dc !important; /* beige */
+    color: #333 !important;               /* dark text */
+    font-family: 'Segoe UI', 'Ubuntu', Arial, sans-serif;
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h3 {
+    color: #6b4f27; /* deep brown accent */
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.container {
+    background: #fffbe6;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(107, 79, 39, 0.08);
+    padding: 2.5rem 2rem;
+    margin-top: 3rem;
+}
+
+label, select, button, .form-check-label {
+    font-size: 1.1rem;
+}
+
+select.form-control {
+    background: #f5f5dc;
+    border: 1px solid #d1c7b7;
+    color: #6b4f27;
+}
+
+.btn-danger, .btn-danger:focus, .btn-danger:active {
+    background-color: #b48a4a;
+    border-color: #b48a4a;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    transition: background 0.2s;
+}
+
+.btn-danger:hover {
+    background-color: #6b4f27;
+    border-color: #6b4f27;
+}
+
+.form-check-input:checked {
+    background-color: #b48a4a;
+    border-color: #b48a4a;
+}
+
+.form-check-input {
+    accent-color: #b48a4a;
+}
+
+.form-check-label {
+    color: #333 !important;
+}
+
+.card, .card-body, .card-title, h4, label, select {
+    color: #333 !important;
+}
+
+
+.card-title, h4, .form-check-label, label {
+    color: #000 !important;
+}
+
+hr {
+    border-top: 1px solid #e0d7c3;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 1rem 0.5rem;
+    }
+    h1, h3 {
+        font-size: 1.3rem;
+    }
+}
