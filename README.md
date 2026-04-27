@@ -31,8 +31,8 @@ Clean and easy-to-use interface
 
 # Technology	Description
 
-Django	Backend framework
-Python	Programming language
-HTML	Structure
-CSS	Styling
-SQLite	Default database
+Django -	Backend framework
+Python -	Programming language
+HTML	- Structure
+CSS	- Styling
+SQLite -	Default database
